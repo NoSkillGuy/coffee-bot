@@ -8,8 +8,8 @@ Here's my report related to the task: [link](https://docs.google.com/document/d/
 
 ## Demos
 
-The code and demo for implementation without using any 3rd party API's is documented in the "chatbot-using-rasa-nlu.ipynb"
+The code and demo for implementation without using any 3rd party API's is documented in the **chatbot-using-rasa-nlu.ipynb**. The training data for the same is stored in **coffee-training-data.json**.
 
-The code for implementation using Api.ai is in "coffee-bot.py" and it's demo can be seen in the report.
+The code for implementation using Api.ai is in **coffee-bot.py** and it's demo can be seen in the report.
 
-The code for my own implementation from the basics using sentence parsing is show in "chatbot-from-scratch.ipynb" -- this is still incomplete.
+The code for my own implementation from the basics using sentence parsing is show in **chatbot-from-scratch.ipynb** -- this is still in the beginning stage. Needs lots of work!
